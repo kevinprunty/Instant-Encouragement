@@ -1,0 +1,11 @@
+{
+  "name": "instant_encouragement",
+  "version": "1.0.0",
+  "description": "Alexa skill that provides instant encouragement to the end user",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Kevin Prunty",
+  "license": "ISC"
+}
